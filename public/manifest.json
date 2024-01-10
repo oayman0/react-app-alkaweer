@@ -1,0 +1,30 @@
+{
+  "short_name": "Remontada",
+  "name": "Remontada",
+  "icons": [
+    {
+      "src": "favicon64.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon-maskable192.png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "orientation": "portrait",
+  "lang": "en",
+  "categories": ["games","football","cards","quizes"],
+  "iarc_rating_id": "E"
+}
