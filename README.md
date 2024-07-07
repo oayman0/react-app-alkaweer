@@ -1,19 +1,20 @@
-# Remontada Bank Game
+# Remontada Alkaweer Game
 
-Welcome to the Remontada Bank Game project, a web application designed to provide answers to the "Bank", a football card game. The project is implemented using ReactJS and designed with Figma.
+Welcome to the Remontada Alkaweer Game, a web application designed to provide answers to the "Alkaweer", a football card game. The project is implemented using ReactJS and designed with Figma.
 
 ## Overview
 
-Remontada Bank Game is a website specifically created for the "Bank", a football card game, which consists of 100 cards, each containing 10 football-related questions. The website enables users to easily access and find answers to questions on specific cards by entering the card number.
+Remontada Alkaweer Game is a website specifically created for the "Alkaweer", a football card game, which consists of 40 cards, each containing football-related questions. The website enables users to easily access and find answers to questions on specific cards by entering the card number.
 
 ## Live Demo
 
 Check out the live demo of Remontada Bank Game hosted at
 
-[https://remontada-bank.onrender.com/](https://remontada-bank.onrender.com/)
+[https://remontada-alkaweer.onrender.com/](https://remontada-alkaweer.onrender.com/)
 
 
-![Frame 1](https://github.com/oayman0/react-app-bank-game/assets/37955772/b1d91967-e9aa-461b-bf47-c6a7780c3f1b)
+![Remontada (3)](https://github.com/oayman0/react-app-alkaweer/assets/37955772/9f3c77af-320a-41aa-9e98-3e6c92a3dd19)
+
 
 
 ## Features
@@ -27,7 +28,7 @@ Check out the live demo of Remontada Bank Game hosted at
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/remontada-bank-game.git
+   git clone https://github.com/oayman0/react-app-alkaweer.git
    cd remontada-bank-game
    
 2. **Install Dependencies:**
@@ -42,19 +43,4 @@ The application will be accessible at 'http://localhost:3000/' in your browser.
 
 ## Usage
 Enter the card number in the designated field to get answers to the questions on that card.
-
-## Contributing
-If you'd like to contribute to the project, follow these steps:
-
-- Fork the repository on GitHub.
-- Create a new branch with a descriptive name.
-- Make your changes and commit them with clear messages.
-- Push your changes to your fork.
-- Submit a pull request.
-- Issues
-If you encounter any issues or have suggestions for improvement, please open an issue.
-
-## License
-This project is licensed under the MIT License.
-
 
